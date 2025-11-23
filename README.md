@@ -2,9 +2,9 @@
 
 ## Olá! Eu sou a Fernanda
 
-##### 🌿 **Graduanda em Análise e Desenvolvimento de Sistemas** pelo **IFRN**. Atualmente estou no 3º período.  
-##### 🌿 **Técnica em Informática** pelo **IFRN**.  
-##### 🌿 Tenho interesse em desenvolvimento web, design e ferramentas modernas para criação de interfaces.  
+##### 🪴 **Graduanda em Análise e Desenvolvimento de Sistemas** pelo **IFRN**. Atualmente estou no 3º período.  
+##### 🪴 **Técnica em Informática** pelo **IFRN**.  
+##### 🪴 Tenho interesse em desenvolvimento web, design e ferramentas modernas para criação de interfaces.  
 
 
 ---

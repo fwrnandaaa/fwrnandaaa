@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F7A8B8&height=120&section=header"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4A701C&height=120&section=header"/>
 
 ## Olá! Eu sou a Fernanda
 
-##### 🌸  **Graduanda em Análise e Desenvolvimento de Sistemas** pelo **IFRN**. Atualmente estou no 3º período.  
-##### 🌸 **Técnica em Informática** pelo **IFRN**.  
-##### 🌸  Tenho interesse em desenvolvimento web, design e ferramentas modernas para criação de interfaces.
+##### 🌿 **Graduanda em Análise e Desenvolvimento de Sistemas** pelo **IFRN**. Atualmente estou no 3º período.  
+##### 🌿 **Técnica em Informática** pelo **IFRN**.  
+##### 🌿 Tenho interesse em desenvolvimento web, design e ferramentas modernas para criação de interfaces.  
+
 
 ---
 

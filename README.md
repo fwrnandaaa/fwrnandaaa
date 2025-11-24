@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4A701C&height=120&section=header"/>
 
-## Olá! Eu sou a Fernanda
+## Olá! Eu me chamo Fernanda
 
 ##### 🪴 **Graduanda em Análise e Desenvolvimento de Sistemas** pelo **IFRN**. Atualmente estou no 3º período.  
 ##### 🪴 **Técnica em Informática** pelo **IFRN**.  
